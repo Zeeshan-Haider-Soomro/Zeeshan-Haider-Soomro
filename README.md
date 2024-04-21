@@ -16,6 +16,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://www.linkedin.com/in/zeeshan-haider-b12338288?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BCwIhVevlSMaGZHumQOrQvA%3D%3D" style="margin-right: 5px;">
+    <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://mail.google.com/mail/u/0/#inbox" style="margin-left: 5px;">
+    <img align="center" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height="30" width="90"/>
+  </a>
+</p>
+<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
