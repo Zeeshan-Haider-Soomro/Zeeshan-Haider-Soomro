@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm ZEESHAN HAIDER HERE,</h1>
-<h3 align="center">I'm a passionate front-end developer that focuses on scalability while creating innovative websites.India</h3>
-    <img src="https://dribbble.com/shots/3848914-Programmer-Thomas" alt="">
+<h1 align="center">Hi 👋, I'm ZEESHAN HAIDER HERE 😊</h1>
+<h3 align="center">I'm a passionate front-end developer that focuses on scalability while creating innovative websites.</h3>
+<img src="https://dribbble.com/shots/3848914-Programmer-Thomas" alt="coding" width="400" align="right">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeeshan-haider-soomro&label=Profile%20views&color=0e75b6&style=flat" alt="zeeshan-haider-soomro" /> </p>
 
-- 🌱 I’m currently learning **JAVASCRIPT|TYPESCRIPT|**
+- 🌱 I’m currently learning **JAVASCRIPT | TYPESCRIPT |**
 
 - 👨‍💻 All of my task are available at [https://www.linkedin.com/in/zeeshan-haider-b12338288?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BCwIhVevlSMaGZHumQOrQvA%3D%3D](https://www.linkedin.com/in/zeeshan-haider-b12338288?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BCwIhVevlSMaGZHumQOrQvA%3D%3D)
 
