@@ -34,8 +34,10 @@
  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeeshan-haider-soomro&show_icons=true&locale=en&layout=compact" alt="zeeshan-haider-soomro" /></p>
+<br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeeshan-haider-soomro&show_icons=true&locale=en" alt="zeeshan-haider-soomro" /></p>
+<br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshan-haider-soomro&" alt="zeeshan-haider-soomro" /></p>
 <hr>
