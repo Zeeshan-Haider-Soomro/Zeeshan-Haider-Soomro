@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my task are available at [https://www.linkedin.com/in/zeeshan-haider-b12338288?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BCwIhVevlSMaGZHumQOrQvA%3D%3D](https://www.linkedin.com/in/zeeshan-haider-b12338288?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BCwIhVevlSMaGZHumQOrQvA%3D%3D)
 
-- 💬 Ask me about **HTML5 | CSS3 | BOOTSTRAP | JAVASCRIPT | TAILWIND | TYPESCRIP T**
+- 💬 Ask me about **HTML5 | CSS3 | BOOTSTRAP | JAVASCRIPT | TAILWIND | TYPESCRIPT | React.js | Next.js **
 
 - 📫 How to reach me **zh7774440@gmail.com**
 
