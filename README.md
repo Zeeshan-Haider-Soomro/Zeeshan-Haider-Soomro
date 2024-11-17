@@ -1,5 +1,5 @@
 ![logo](banner-software-development-3d-laptop-vector-46322083.avif)
-<h1 align="center">Hi 👋, I'm ZEESHAN HAIDER HERE,zeesahan</h1>
+<h1 align="center">Hi 👋, I'm ZEESHAN HAIDER HERE,</h1>
 <h3 align="center">I'm a passionate front-end developer that focuses on scalability while creating innovative websites.India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeeshan-haider-soomro&label=Profile%20views&color=0e75b6&style=flat" alt="zeeshan-haider-soomro" /> </p>
