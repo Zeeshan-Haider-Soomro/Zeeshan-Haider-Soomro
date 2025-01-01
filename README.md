@@ -1,4 +1,4 @@
-![logo](banner-software-development-3d-laptop-vector-46322083.avif)
+![logo](Purple Abstract Graphic Design LinkedIn Article Cover Image.gif)
 <h1 align="center">Hi 👋, I'm ZEESHAN HAIDER HERE,</h1>
 <h3 align="center">I'm a passionate front-end developer that focuses on scalability while creating innovative websites.India</h3>
 
