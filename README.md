@@ -25,7 +25,7 @@
 
 ### 🌐 Connect with me:
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/zeeshan-haider-b12338288" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
   </a>
