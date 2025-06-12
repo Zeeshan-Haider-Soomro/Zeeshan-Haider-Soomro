@@ -1,158 +1,97 @@
-![logo](Purple-Abstract-Graphic-Design-LinkedIn-Article-Cover-Image.gif)
-<h1 align="center">Assalam 0 Alaikum 🤍, I'm ZEESHAN HAIDER HERE,</h1>
-<h3 align="center">I'm a passionate MERN Stack Developer | Software Engineer that focuses on scalability while creating innovative websites</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zeeshan-haider-soomro&label=Profile%20views&color=0e75b6&style=flat" alt="zeeshan-haider-soomro" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeeshan-haider-soomro" alt="zeeshan-haider-soomro" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 👨‍💻 All of my task are available at [https://www.linkedin.com/in/zeeshan-haider-b12338288?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BCwIhVevlSMaGZHumQOrQvA%3D%3D](https://www.linkedin.com/in/zeeshan-haider-b12338288?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BCwIhVevlSMaGZHumQOrQvA%3D%3D)
-
-- 📄 My Portfolio [https://my-portfolio-from-next-js.vercel.app/](https://my-portfolio-from-next-js.vercel.app/)
-
-- 📫 How to reach me **zh7774440@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/zeeshan haider" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zeeshan haider" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://your-image-url.com/Purple-Abstract-Graphic-Design-LinkedIn-Article-Cover-Image.gif" alt="Banner" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-## 🚀 Tech Stack & Tools I Work With
+<h1 align="center">Assalam 0 Alaikum 🤍, I'm ZEESHAN HAIDER</h1>
+<h3 align="center">A passionate MERN Stack Developer | Software Engineer focused on scalability and building innovative websites 🚀</h3>
 
-<p align="left">
-  <!-- HTML -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-  </a>
-  <!-- CSS -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-  </a>
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <!-- TypeScript -->
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
-  <!-- React -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <!-- Next.js -->
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-  </a>
-  <!-- Redux -->
-  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
-  </a>
-  <!-- Node.js -->
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <!-- Express.js -->
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
-  </a>
-  <!-- MongoDB -->
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <!-- Firebase -->
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  </a>
-  <!-- Tailwind CSS -->
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
-  </a>
-  <!-- Bootstrap -->
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
-  </a>
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <!-- GitHub -->
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40"/>
-  </a>
-  <!-- Figma -->
-  <a href="https://figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  </a>
-  <!-- Adobe Illustrator -->
-  <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Illustrator" width="40" height="40"/>
-  </a>
-  <!-- Adobe Photoshop -->
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" width="40" height="40"/>
-  </a>
-  <!-- Canva -->
-  <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" alt="Canva" width="40" height="40"/>
-  </a>
-  <!-- Hostinger -->
-  <a href="https://www.hostinger.com/" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/H/hostinger-logo-AE99E2FAE1-seeklogo.com.png" alt="Hostinger" width="40" height="40"/>
-  </a>
-  <!-- Vercel -->
-  <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" alt="Vercel" width="40" height="40"/>
-  </a>
-  <!-- Netlify -->
-  <a href="https://netlify.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="40" height="40"/>
-  </a>
-  <!-- Three.js -->
-  <a href="https://threejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="Three.js" width="40" height="40"/>
-  </a>
-  <!-- Framer Motion -->
-  <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/framer/motion/main/.github/motion-icon-black.svg" alt="Framer Motion" width="40" height="40"/>
-  </a>
-  <!-- GSAP -->
-  <a href="https://greensock.com/gsap/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/gsap.svg" alt="GSAP" width="40" height="40"/>
-  </a>
-  <!-- CursorAI (Custom Icon Needed) -->
-  <a href="#" title="Cursor AI">
-    <img src="https://img.icons8.com/color/48/robot.png" alt="Cursor AI" width="40" height="40"/>
-  </a>
-  <!-- Microsoft Word -->
-  <a href="https://www.microsoft.com/en-us/microsoft-365/word" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftword/microsoftword-original.svg" alt="MS Word" width="40" height="40"/>
-  </a>
-  <!-- Excel -->
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftexcel/microsoftexcel-original.svg" alt="MS Excel" width="40" height="40"/>
-  </a>
-  <!-- PowerPoint -->
-  <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftpowerpoint/microsoftpowerpoint-original.svg" alt="MS PowerPoint" width="40" height="40"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zeeshan-haider-soomro&label=Profile%20views&color=0e75b6&style=flat" alt="zeeshan-haider-soomro" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=zeeshan-haider-soomro&theme=tokyonight" alt="GitHub Trophy" />
   </a>
 </p>
 
+---
 
+- 👨‍💻 All of my work is available at [LinkedIn](https://www.linkedin.com/in/zeeshan-haider-b12338288)
+- 📄 Portfolio: [https://my-portfolio-from-next-js.vercel.app/](https://my-portfolio-from-next-js.vercel.app/)
+- 📫 Reach me at: **zh7774440@gmail.com**
 
+---
 
+### 🌐 Connect with me:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeeshan-haider-soomro&show_icons=true&locale=en&layout=compact" alt="zeeshan-haider-soomro" /></p>
+<p align="left">
+  <a href="https://www.linkedin.com/in/zeeshan-haider-b12338288" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeeshan-haider-soomro&show_icons=true&locale=en" alt="zeeshan-haider-soomro" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshan-haider-soomro&" alt="zeeshan-haider-soomro" /></p>
+## 🚀 Tech Stack & Tools
 
-<br>
+<p align="left">
+  <!-- Languages -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TS" width="40" />
+  
+  <!-- Frontend -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" />
 
+  <!-- Backend -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" />
 
-<hr>
-<h3 align="center" >Thanks For Your Support! ❤️</h3>
+  <!-- Dev Tools -->
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="40" />
+  <img src="https://seeklogo.com/images/H/hostinger-logo-AE99E2FAE1-seeklogo.com.png" alt="Hostinger" width="40" />
+
+  <!-- Design Tools -->
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Illustrator" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" alt="Canva" width="40" />
+
+  <!-- Animation -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="Three.js" width="40" />
+  <img src="https://raw.githubusercontent.com/framer/motion/main/.github/motion-icon-black.svg" alt="Framer Motion" width="40" />
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/gsap.svg" alt="GSAP" width="40" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeeshan-haider-soomro&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zeeshan-haider-soomro&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshan-haider-soomro&" alt="GitHub Streak" />
+</p>
+
+---
+
+> 💡 **“Code is like humor. When you have to explain it, it’s bad.” – Cory House**
+
+---
+
