@@ -20,8 +20,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-## 🚀 Tech Stack & Tools I Work With
-
 <p align="left">
   <!-- HTML -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
@@ -95,14 +93,6 @@
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" width="40" height="40"/>
   </a>
-  <!-- Canva -->
-  <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" alt="Canva" width="40" height="40"/>
-  </a>
-  <!-- Hostinger -->
-  <a href="https://www.hostinger.com/" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/H/hostinger-logo-AE99E2FAE1-seeklogo.com.png" alt="Hostinger" width="40" height="40"/>
-  </a>
   <!-- Vercel -->
   <a href="https://vercel.com/" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" alt="Vercel" width="40" height="40"/>
@@ -114,30 +104,6 @@
   <!-- Three.js -->
   <a href="https://threejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="Three.js" width="40" height="40"/>
-  </a>
-  <!-- Framer Motion -->
-  <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/framer/motion/main/.github/motion-icon-black.svg" alt="Framer Motion" width="40" height="40"/>
-  </a>
-  <!-- GSAP -->
-  <a href="https://greensock.com/gsap/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/gsap.svg" alt="GSAP" width="40" height="40"/>
-  </a>
-  <!-- CursorAI (Custom Icon Needed) -->
-  <a href="#" title="Cursor AI">
-    <img src="https://img.icons8.com/color/48/robot.png" alt="Cursor AI" width="40" height="40"/>
-  </a>
-  <!-- Microsoft Word -->
-  <a href="https://www.microsoft.com/en-us/microsoft-365/word" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftword/microsoftword-original.svg" alt="MS Word" width="40" height="40"/>
-  </a>
-  <!-- Excel -->
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftexcel/microsoftexcel-original.svg" alt="MS Excel" width="40" height="40"/>
-  </a>
-  <!-- PowerPoint -->
-  <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftpowerpoint/microsoftpowerpoint-original.svg" alt="MS PowerPoint" width="40" height="40"/>
   </a>
 </p>
 
