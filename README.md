@@ -1,14 +1,12 @@
 ![logo](Purple-Abstract-Graphic-Design-LinkedIn-Article-Cover-Image.gif)
 <h1 align="center">Assalam 0 Alaikum 🤍, I'm ZEESHAN HAIDER HERE,</h1>
-<h3 align="center">I'm a passionate Front-End Developer that focuses on scalability while creating innovative websites</h3>
+<h3 align="center">I'm a passionate MERN Stack Developer | Software Engineer that focuses on scalability while creating innovative websites</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeeshan-haider-soomro&label=Profile%20views&color=0e75b6&style=flat" alt="zeeshan-haider-soomro" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeeshan-haider-soomro" alt="zeeshan-haider-soomro" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **Backend Developer**
 
 - 👨‍💻 All of my task are available at [https://www.linkedin.com/in/zeeshan-haider-b12338288?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BCwIhVevlSMaGZHumQOrQvA%3D%3D](https://www.linkedin.com/in/zeeshan-haider-b12338288?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BCwIhVevlSMaGZHumQOrQvA%3D%3D)
 
@@ -22,72 +20,164 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<!-- Tech Stack Icons -->
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
   <!-- HTML -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
   </a>
+
   <!-- CSS -->
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
   </a>
-  <!-- Bootstrap -->
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
+
   <!-- JavaScript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
-  <!-- TypeScript -->
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
+
   <!-- Firebase -->
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
   </a>
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
+
   <!-- React.js -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
+
   <!-- Next.js -->
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
   </a>
-  <!-- Node.js -->
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+
+  <!-- Bootstrap -->
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
   </a>
+
   <!-- Tailwind CSS -->
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/>
   </a>
-  <!-- Redux -->
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+
+  <!-- TypeScript -->
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
+
+  <!-- Git -->
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" width="40" height="40"/>
+  </a>
+
+  <!-- Node.js -->
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+
+  <!-- Express.js -->
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+  </a>
+
+  <!-- MongoDB -->
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+  </a>
+
+  <!-- Adobe Illustrator -->
+  <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-icon.svg" alt="illustrator" width="40" height="40"/>
+  </a>
+
+  <!-- Photoshop -->
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="photoshop" width="40" height="40"/>
+  </a>
+
   <!-- Figma -->
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="figma" width="40" height="40"/>
   </a>
-  <!-- React Native -->
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
+
+  <!-- Canva -->
+  <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" alt="canva" width="40" height="40"/>
   </a>
-  <!-- Photoshop -->
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+
+  <!-- Hostinger -->
+  <a href="https://www.hostinger.com/" target="_blank" rel="noreferrer">
+    <img src="https://assets.hostinger.com/images/logos/hostinger-logo.svg" alt="hostinger" width="40" height="40"/>
   </a>
-  <!-- Illustrator -->
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
+
+  <!-- Redux -->
+  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
   </a>
-</p>
+
+  <!-- Redux Toolkit -->
+  <a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer">
+    <img src="https://redux-toolkit.js.org/favicon/favicon-32x32.png" alt="reduxtoolkit" width="40" height="40"/>
+  </a>
+
+  <!-- Vercel -->
+  <a href="https://vercel.com/" target="_blank" rel="noreferrer">
+    <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" alt="vercel" width="40" height="40"/>
+  </a>
+
+  <!-- Netlify -->
+  <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40"/>
+  </a>
+
+  <!-- Three.js -->
+  <a href="https://threejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="threejs" width="40" height="40"/>
+  </a>
+
+  <!-- Framer Motion -->
+  <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" alt="framermotion" width="40" height="40"/>
+  </a>
+
+  <!-- GSAP -->
+  <a href="https://greensock.com/gsap/" target="_blank" rel="noreferrer">
+    <img src="https://greensock.com/uploads/monthly_2020_01/gsap-logo.svg.f600249d6f3db3d7fbe553fa91a81f7d.svg" alt="gsap" width="40" height="40"/>
+  </a>
+
+  <!-- CursorAI -->
+  <a href="https://cursor.so/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/133064917?s=200&v=4" alt="cursorai" width="40" height="40"/>
+  </a>
+
+  <!-- MS Word -->
+  <a href="https://www.microsoft.com/en/microsoft-365/word" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-word-2013.svg" alt="word" width="40" height="40"/>
+  </a>
+
+  <!-- MS Excel -->
+  <a href="https://www.microsoft.com/en/microsoft-365/excel" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" alt="excel" width="40" height="40"/>
+  </a>
+
+  <!-- PowerPoint -->
+  <a href="https://www.microsoft.com/en/microsoft-365/powerpoint" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-powerpoint-2013.svg" alt="powerpoint" width="40" height="40"/>
+  </a>
+
+  <!-- Hosting & Domain -->
+  <a href="https://www.namecheap.com/domains/domain-name-search/" target="_blank" rel="noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/7396/7396719.png" alt="domain" width="40" height="40"/>
+  </a>
+</div>
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeeshan-haider-soomro&show_icons=true&locale=en&layout=compact" alt="zeeshan-haider-soomro" /></p>
