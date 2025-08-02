@@ -8,11 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 All of my task are available at [https://www.linkedin.com/in/zeeshan-haider-b12338288?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BCwIhVevlSMaGZHumQOrQvA%3D%3D](https://www.linkedin.com/in/zeeshan-haider-b12338288?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BCwIhVevlSMaGZHumQOrQvA%3D%3D)
+- 👨‍💻 All of my task are available at [https://www.linkedin.com/in/zeeshan-haider-b12338288
 
 - 📄 My Portfolio [https://my-portfolio-from-next-js.vercel.app/](https://my-portfolio-from-next-js.vercel.app/)
 
 - 📫 How to reach me **zh7774440@gmail.com**
+- 📫 How to reach me **zeeshanhaiderdev.soomro@gmail.com**
+- 📫 How to reach me **zeeshan@godekhopakistan.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
