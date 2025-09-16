@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 All of my task are available at [https://www.linkedin.com/in/zeeshan-haider-b12338288
+- 👨‍💻 All of my task are available at [[https://www.linkedin.com/in/zeeshan-haider-b12338288](https://www.linkedin.com/in/zeeshan-haider-soomro-912885378/)
 
 - 📄 My Portfolio [https://my-portfolio-from-next-js.vercel.app/](https://my-portfolio-from-next-js.vercel.app/)
 
