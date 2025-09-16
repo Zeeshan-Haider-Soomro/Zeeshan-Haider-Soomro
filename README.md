@@ -1,4 +1,4 @@
-![logo](Purple-Abstract-Graphic-Design-LinkedIn-Article-Cover-Image.gif)
+![logo](cover-photo.gif)
 <h1 align="center">Assalam 0 Alaikum 🤍, I'm ZEESHAN HAIDER,</h1>
 <h3 align="center">I'm a passionate MERN Stack Developer | Software Engineer that focuses on scalability while creating innovative websites</h3>
 
