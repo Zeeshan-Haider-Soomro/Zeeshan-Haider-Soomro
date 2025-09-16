@@ -8,17 +8,14 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 All of my task are available at [[https://www.linkedin.com/in/zeeshan-haider-b12338288](https://www.linkedin.com/in/zeeshan-haider-soomro-912885378/)
-
 - 📄 My Portfolio [https://my-portfolio-from-next-js.vercel.app/](https://my-portfolio-from-next-js.vercel.app/)
 
-- 📫 How to reach me **zh7774440@gmail.com**
-- 📫 How to reach me **zeeshanhaiderdev.soomro@gmail.com**
+- 📫 How to reach me **se.zeeshanhaider@gmail.com**
 - 📫 How to reach me **zeeshan@godekhopakistan.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/zeeshan haider" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zeeshan haider" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/zeeshan-haider-soomro-912885378/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zeeshan haider" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
