@@ -36,7 +36,7 @@ const zeeshanHaider = {
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zeeshan-haider-soomro&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=zeeshan-haider-soomro&theme=darkhub&no-frame=true&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -50,7 +50,7 @@ const zeeshanHaider = {
 <br/>
 
 <div align="center">
-  <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshan-haider-soomro&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF&langs_count=10" alt="Top Languages" />
+  <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshan-haider-soomro&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=800" alt="Top Languages" />
 </div>
 
 <br/>
@@ -117,10 +117,10 @@ const zeeshanHaider = {
 ### 🛒 CMS & E-Commerce
 <p>
   <a href="https://wordpress.org/" target="_blank"><img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" /></a>
-  <a href="https://woocommerce.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/woocommerce/woocommerce-original.svg" alt="WooCommerce" width="48" height="48" /></a>
-  <a href="https://www.wix.com/" target="_blank"><img src="https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white" alt="Wix" height="48" /></a>
-  <a href="https://www.shopify.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/shopify/shopify-original.svg" alt="Shopify" width="48" height="48" /></a>
-  <a href="https://www.hostinger.com/" target="_blank"><img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white" alt="Hostinger" height="48" /></a>
+  <a href="https://woocommerce.com/" target="_blank"><img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce" height="40" /></a>
+  <a href="https://www.wix.com/" target="_blank"><img src="https://img.shields.io/badge/Wix-000000?style=for-the-badge&logo=wix&logoColor=white" alt="Wix" height="40" /></a>
+  <a href="https://www.shopify.com/" target="_blank"><img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" height="40" /></a>
+  <a href="https://www.hostinger.com/" target="_blank"><img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white" alt="Hostinger" height="40" /></a>
 </p>
 
 ### 🎨 Design & Other Tools
@@ -215,23 +215,23 @@ const zeeshanHaider = {
 ## 📈 Detailed Metrics
 
 <div align="center">
-  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zeeshan-haider-soomro&theme=tokyonight" alt="Profile Details" />
+  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zeeshan-haider-soomro&theme=github_dark" alt="Profile Details" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zeeshan-haider-soomro&theme=tokyonight" alt="Repos Per Language" />
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zeeshan-haider-soomro&theme=github_dark" alt="Repos Per Language" />
   &nbsp;&nbsp;
-  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zeeshan-haider-soomro&theme=tokyonight" alt="Most Commit Language" />
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zeeshan-haider-soomro&theme=github_dark" alt="Most Commit Language" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zeeshan-haider-soomro&theme=tokyonight" alt="Stats" />
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zeeshan-haider-soomro&theme=github_dark" alt="Stats" />
   &nbsp;&nbsp;
-  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zeeshan-haider-soomro&theme=tokyonight&utcOffset=5" alt="Commits (UTC +5:00)" />
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zeeshan-haider-soomro&theme=github_dark&utcOffset=5" alt="Commits (UTC +5:00)" />
 </div>
 
 ---
