@@ -11,7 +11,6 @@
 - 📄 My Portfolio [https://my-portfolio-from-next-js.vercel.app/](https://my-portfolio-from-next-js.vercel.app/)
 
 - 📫 How to reach me **se.zeeshanhaider@gmail.com**
-- 📫 How to reach me **zeeshan@godekhopakistan.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
