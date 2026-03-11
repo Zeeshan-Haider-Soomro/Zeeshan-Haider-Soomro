@@ -36,7 +36,9 @@ const zeeshanHaider = {
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zeeshan-haider-soomro&theme=onedark&no-frame=true&column=6&margin-w=10" alt="GitHub Trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=zeeshan-haider-soomro&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  </a>
 </div>
 
 ---
