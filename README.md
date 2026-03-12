@@ -3,7 +3,7 @@
 <div align="center">
   
   <!-- Typing SVG -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=800&lines=Assalam+O+Alaikum+%F0%9F%A4%8D+I'm+Zeeshan+Haider;Full+Stack+Developer+%7C+MERN+Stack+Engineer;Building+Scalable+%26+Innovative+Web+Solutions;Currently+Working+%40+SkyTech+Digitals" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=800&lines=Assalam+O+Alaikum+%F0%9F%A4%8D+I'm+Zeeshan+Haider;Full+Stack+Developer+%7C+MERN+Stack+Developer;Building+Scalable+%26+Innovative+Web+Solutions;Currently+Working+%40+SkyTech+Digitals" alt="Typing SVG" /></a>
 
   <br/>
   
@@ -18,7 +18,7 @@
 ```javascript
 const zeeshanHaider = {
     pronouns: "He" | "Him",
-    role: "Full Stack Developer | MERN Stack Engineer",
+    role: "Full Stack Developer | MERN Stack Developer",
     company: "SkyTech Digitals",
     education: "BS Software Engineering - Virtual University of Pakistan",
     location: "Karachi, Pakistan 🇵🇰",
