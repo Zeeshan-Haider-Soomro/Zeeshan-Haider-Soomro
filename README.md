@@ -188,32 +188,6 @@ const zeeshanHaider = {
 
 ---
 
-## 🌟 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Zeeshan-Haider-Soomro/Generate-Random-Color-App-By-JavaScript">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=zeeshan-haider-soomro&repo=Generate-Random-Color-App-By-JavaScript&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/Zeeshan-Haider-Soomro/Lass-Lab">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=zeeshan-haider-soomro&repo=Lass-Lab&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/Zeeshan-Haider-Soomro/Timmer">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=zeeshan-haider-soomro&repo=Timmer&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/Zeeshan-Haider-Soomro/zeeshan-resume">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=zeeshan-haider-soomro&repo=zeeshan-resume&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF" />
-</a>
-
-</div>
-
----
-
 ## 📈 Detailed Metrics
 
 <div align="center">
