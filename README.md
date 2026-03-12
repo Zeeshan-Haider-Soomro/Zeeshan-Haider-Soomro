@@ -58,7 +58,7 @@ const zeeshanHaider = {
 <br/>
 
 <div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshan-haider-soomro&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=FF6B35&currStreakLabel=3B82F6" alt="GitHub Streak" />
+    <img width="90%" src="https://streak-stats.demolab.com/?user=zeeshan-haider-soomro&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=FF6B35&currStreakLabel=3B82F6" alt="GitHub Streak" />
 </div>
 
 <br/>
