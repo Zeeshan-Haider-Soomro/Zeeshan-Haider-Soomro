@@ -24,7 +24,7 @@ const zeeshanHaider = {
     location: "Karachi, Pakistan 🇵🇰",
     experience: [
         "Full Stack Developer @ SkyTech Digitals",
-        "Full Stack Developer Intern @ NED University",
+        "Full Stack Developer Intern @ Sparktrum, NED University",
         "React.js Developer @ Infinity X Dynamics",
         "React.js & Next.js Intern @ Precise Tech (Toronto, Canada)"
     ],
