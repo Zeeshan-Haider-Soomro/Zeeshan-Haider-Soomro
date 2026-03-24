@@ -268,7 +268,5 @@ If you find my projects helpful, consider supporting me!
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=100&section=footer" width="100%" />
 
   ### Thanks for visiting! Come back soon 🌟
-
-  *Last updated automatically via GitHub Actions ✨*
   
 </div>
