@@ -17,7 +17,6 @@
 
 ```javascript
 const zeeshanHaider = {
-    pronouns: "He" | "Him",
     role: "Full Stack Developer | MERN Stack Developer",
     company: "SkyTech Digitals",
     education: "BS Software Engineering - Virtual University of Pakistan",
