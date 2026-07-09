@@ -28,7 +28,7 @@ const zeeshanHaider = {
         "React.js & Next.js Intern @ Precise Tech (Toronto, Canada)"
     ],
     currentFocus: ["Scalable Web Apps", "AI & Agentic AI", "DevOps"],
-    funFact: "I have 843+ contributions and a 147-day longest streak! 🔥"
+    funFact: "I have 1036+ contributions and a 147-day longest streak! 🔥"
 };
 ```
 
