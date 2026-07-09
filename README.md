@@ -164,7 +164,7 @@ const zeeshanHaider = {
 <td width="50%" valign="top">
 
 ### 💡 Fun Facts
-- 🔥 843+ total contributions
+- 🔥 1036+ total contributions
 - 📅 147-day longest coding streak
 - 🌍 Worked remotely for Toronto-based company
 - ☕ Coffee-driven developer
